@@ -4,7 +4,7 @@ import openai
 board = [[' ' for _ in range(15)] for _ in range(15)]
 
 # OpenAI API凭证
-openai.api_key = "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"
+openai.api_key = "输入API"
 
 # 初始化棋盘
 board = [[' ' for _ in range(15)] for _ in range(15)]
